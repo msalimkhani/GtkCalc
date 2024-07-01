@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/mahdi/Projects/CPP/GtkCalc/bin",
+            "binaryPath": "/home/mahdi/Projects/CPP/GtkCalc/bin/GtkCalc",
+            "binaryArgs": []
+        }
+    ]
+}

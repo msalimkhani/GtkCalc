@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Simple Calculator
+Comment=Simple Calculator with GTK4 By Mahdi Salimkhani
+GenericName=Calculator
+Exec=/usr/bin/GtkCalc
+Icon=/usr/bin/GtkCalc_Files/GtkCalc.png
+Type=Application
